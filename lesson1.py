@@ -59,8 +59,8 @@
 # nums = [3, -1, 0, 7, -5, 2]
 # print(['чёт' if x % 2 == 0 else 'нечёт' for x in nums])
 
-people = [("Аня", 17), ("Борис", 22), ("Вика", 18), ("Глеб", 15), ("Даша", 30)]
-print([i[0] for i in people if i[1] >= 18 ])
+# people = [("Аня", 17), ("Борис", 22), ("Вика", 18), ("Глеб", 15), ("Даша", 30)]
+# print([i[0] for i in people if i[1] >= 18 ])
 
 # print([i * j for i in range(3) for j in range(3)])
 
